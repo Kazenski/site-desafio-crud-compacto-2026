@@ -61,7 +61,7 @@ python -m http.server 8000
 
 No GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch →
 Branch: `main` / `(root)` → Save**. Em alguns minutos o site estará em
-`https://kazenski.github.io/-site-desafio-crud-compacto-2026/`.
+`https://kazenski.github.io/site-desafio-crud-compacto-2026/`.
 
 ## Rodar o esqueleto
 
